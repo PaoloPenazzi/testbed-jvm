@@ -61,6 +61,7 @@ publishOnCentral {
                 pom {
                     developers {
                         developer {
+                            id.set("paolopenazzi")
                             name.set("Paolo Penazzi")
                             email.set("paolo.penazzi@studio.unibo.it")
                         }
