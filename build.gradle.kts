@@ -9,7 +9,7 @@ plugins {
     alias(libs.plugins.taskTree)
 }
 
-group = "org.danilopianini"
+group = "io.github.paolopenazzi"
 
 repositories {
     mavenCentral()
@@ -49,10 +49,10 @@ signing {
 }
 
 publishOnCentral {
-    projectLongName.set("Template Kotlin JVM Project")
-    projectDescription.set("A template repository for Kotlin JVM projects")
+    projectLongName.set("Testbed")
+    projectDescription.set("An open benchmarking platform for Collective Adaptive Systems")
     repository("https://maven.pkg.github.com/danysk/${rootProject.name}".lowercase()) {
-        user.set("DanySK")
+        user.set("PaoloPenazzi")
         password.set(System.getenv("GITHUB_TOKEN"))
     }
     publishing {
@@ -61,9 +61,8 @@ publishOnCentral {
                 pom {
                     developers {
                         developer {
-                            name.set("Danilo Pianini")
-                            email.set("danilo.pianini@gmail.com")
-                            url.set("http://www.danilopianini.org/")
+                            name.set("Paolo Penazzi")
+                            email.set("paolo.penazzi@studio.unibo.it")
                         }
                     }
                 }
