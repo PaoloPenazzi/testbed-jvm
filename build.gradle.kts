@@ -52,8 +52,8 @@ publishOnCentral {
     projectLongName.set("Testbed")
     projectDescription.set("An open benchmarking platform for Collective Adaptive Systems")
     repository("https://maven.pkg.github.com/paolopenazzi/${rootProject.name}".lowercase()) {
-        user.set("PaoloPenazzi")
-        password.set(System.getenv("GITHUB_TOKEN"))
+        user.set("paolopenazzi")
+        password.set(System.getenv("GH_TOKEN"))
     }
     publishing {
         publications {
