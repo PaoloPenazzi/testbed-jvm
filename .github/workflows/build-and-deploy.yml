@@ -58,19 +58,25 @@ jobs:
         uses: actions/setup-node@v4.0.1
         with:
           node-version: ${{ steps.node-version.outputs.version }}
-      - uses: DanySK/build-check-deploy-gradle-action@2.2.13
-        with:
-          build-command: true
-          check-command: true
-          deploy-command: |
-            npm install
-            npx semantic-release
-          should-run-codecov: false
-          should-deploy: false
-          github-token: ${{ github.token }}
-          maven-central-password: ${{ secrets.MAVEN_CENTRAL_PASSWORD }}
-          signing-key: ${{ secrets.SIGNING_KEY }}
-          signing-password: ${{ secrets.SIGNING_PASSWORD }}
+      - name: Release
+        env:
+          GH_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+        run: |
+          npm install
+          npx semantic-release
+        # uses: DanySK/build-check-deploy-gradle-action@2.2.13
+        #with:
+          #build-command: true
+          #check-command: true
+          #deploy-command: |
+            #npm install
+            #npx semantic-release
+          #should-run-codecov: false
+          #should-deploy: false
+          #github-token: ${{ github.token }}
+          #maven-central-password: ${{ secrets.MAVEN_CENTRAL_PASSWORD }}
+          #signing-key: ${{ secrets.SIGNING_KEY }}
+          #signing-password: ${{ secrets.SIGNING_PASSWORD }}
   success:
     runs-on: ubuntu-22.04
     needs:
