@@ -51,7 +51,7 @@ signing {
 publishOnCentral {
     projectLongName.set("Testbed")
     projectDescription.set("An open benchmarking platform for Collective Adaptive Systems")
-    repository("https://maven.pkg.github.com/danysk/${rootProject.name}".lowercase()) {
+    repository("https://maven.pkg.github.com/paolopenazzi/${rootProject.name}".lowercase()) {
         user.set("PaoloPenazzi")
         password.set(System.getenv("GITHUB_TOKEN"))
     }
