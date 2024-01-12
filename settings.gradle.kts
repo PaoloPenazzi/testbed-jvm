@@ -20,4 +20,4 @@ gitHooks {
     createHooks()
 }
 
-rootProject.name = "testebed-jvm"
+rootProject.name = "testbed-jvm"
