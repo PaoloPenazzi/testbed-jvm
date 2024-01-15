@@ -10,7 +10,7 @@ plugins {
     alias(libs.plugins.taskTree)
 }
 application {
-    mainClass = "Test"
+    mainClass = "Main"
 }
 
 group = "io.github.paolopenazzi"
