@@ -2,5 +2,5 @@
  * An hello world.
  */
 fun main() {
-    println("Hello multiplatform")
+    println("Hello JVM")
 }
