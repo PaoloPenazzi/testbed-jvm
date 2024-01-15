@@ -1,3 +1,24 @@
+## [2.0.0](https://github.com/PaoloPenazzi/testbed-jvm/compare/1.0.0...2.0.0) (2024-01-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* import project source files
+
+### Features
+
+* import project source files ([a145e0e](https://github.com/PaoloPenazzi/testbed-jvm/commit/a145e0e3aa76d9c96fa9d6ea75ba5bba7420cb7d))
+
+
+### Bug Fixes
+
+* add missing dependencies ([e218281](https://github.com/PaoloPenazzi/testbed-jvm/commit/e218281fdb716ff8cd34ded0679bb528acd8458b))
+
+
+### Build and continuous integration
+
+* update release config and jar creation ([e07dd52](https://github.com/PaoloPenazzi/testbed-jvm/commit/e07dd52d6ed5c544dbc0750a2f949e76fe8ebf95))
+
 ## 1.0.0 (2024-01-15)
 
 
