@@ -8,6 +8,7 @@ plugins {
     alias(libs.plugins.publishOnCentral)
     alias(libs.plugins.multiJvmTesting)
     alias(libs.plugins.taskTree)
+    kotlin("plugin.serialization") version "1.9.21"
 }
 application {
     mainClass = "Main"
@@ -21,6 +22,12 @@ repositories {
 
 dependencies {
     implementation(libs.kotlin.stdlib)
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.2")
+    implementation("org.jetbrains.kotlinx:kotlinx-io-core:0.3.0")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0-RC2")
+    implementation("org.yaml:snakeyaml:2.2")
+    implementation("com.charleskorn.kaml:kaml:0.55.0")
+    implementation("com.opencsv:opencsv:5.9")
     testImplementation(libs.bundles.kotlin.testing)
 }
 
