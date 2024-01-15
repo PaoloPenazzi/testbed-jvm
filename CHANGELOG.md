@@ -1,3 +1,41 @@
+## 1.0.0 (2024-01-15)
+
+
+### Features
+
+* change print ([d546012](https://github.com/PaoloPenazzi/testbed-jvm/commit/d546012a44cde749944de459e70ccfa97eefa6f4))
+
+
+### Dependency updates
+
+* **deps:** update dependency org.mockito:mockito-core to v5.9.0 ([02ed5f1](https://github.com/PaoloPenazzi/testbed-jvm/commit/02ed5f12d40331df65254eb2bcf4ee9fa59b423e))
+* **deps:** update plugin org.gradle.toolchains.foojay-resolver-convention to v0.8.0 ([a54139a](https://github.com/PaoloPenazzi/testbed-jvm/commit/a54139a373fefef017d94acfa41b143e508dea81))
+
+
+### Build and continuous integration
+
+* add publish step ([4a98173](https://github.com/PaoloPenazzi/testbed-jvm/commit/4a98173ddca119f36b44b91f0d45d8a28e38f2dd))
+* add usage of maven-central_username secret ([1579fe9](https://github.com/PaoloPenazzi/testbed-jvm/commit/1579fe9d3eb0acbf974f1d362313714c0b37fb30))
+* turn deploy on ([f161d0b](https://github.com/PaoloPenazzi/testbed-jvm/commit/f161d0b05734c4f154de4cc80a6aca08a319fb33))
+* update gh_token name ([c3d4571](https://github.com/PaoloPenazzi/testbed-jvm/commit/c3d4571e2ae9607cdac466e72ed9ed67ad4dac8b))
+* update personal access token name in release job ([46345e6](https://github.com/PaoloPenazzi/testbed-jvm/commit/46345e60aacda7831e536c12791e725f7f6aa97f))
+
+
+### General maintenance
+
+* add developer id in build.gradle.kts ([1414117](https://github.com/PaoloPenazzi/testbed-jvm/commit/14141171f0a37315dddb89ac4d3ea56377feb0b4))
+* fix typo in settings.gradle.kts ([4a8a782](https://github.com/PaoloPenazzi/testbed-jvm/commit/4a8a7829877f412604d4e3ae1e33cf4b71342175))
+* remove publish action in build-and-deploy.yml ([f7a8980](https://github.com/PaoloPenazzi/testbed-jvm/commit/f7a89802b826f34dd4e8c8a59bc4b5fe13e90d2d))
+* update build-and-deploy.yml ([6112fd1](https://github.com/PaoloPenazzi/testbed-jvm/commit/6112fd1fe1140c7c777d2404f1a56da88eb68539))
+* update build-and-deploy.yml ([a755553](https://github.com/PaoloPenazzi/testbed-jvm/commit/a755553fe215b4b3f797e961ceb74ef6ae6a7eed))
+* update build.gradle.kts ([b39b22f](https://github.com/PaoloPenazzi/testbed-jvm/commit/b39b22f777a858e02abd1e73b99ea74c715c4502))
+* update github token name in build.gradle.kts ([f42284b](https://github.com/PaoloPenazzi/testbed-jvm/commit/f42284bd98fc4e57ed52d56155a935a9cdb71a94))
+* update gitignore ([b3891b9](https://github.com/PaoloPenazzi/testbed-jvm/commit/b3891b92f076fba037a542ff49f4e5c79fe6c525))
+* update publish info in build.gradle.kts ([c2eb6f2](https://github.com/PaoloPenazzi/testbed-jvm/commit/c2eb6f271475eaeaed0a2a6c1cf6fe1c0ebea5ef))
+* update ReadMe file ([d6bb14d](https://github.com/PaoloPenazzi/testbed-jvm/commit/d6bb14dfd76406d1f742c3fe62df5c75851bc0b0))
+* update ReadMe file ([933d008](https://github.com/PaoloPenazzi/testbed-jvm/commit/933d0082caa91ebc5fc7832af2044887c4ad4736))
+* update rootProject name in settings.gradle.kts ([85e4f60](https://github.com/PaoloPenazzi/testbed-jvm/commit/85e4f60566f95b98f3acfb484aad0d53efd00ce5))
+
 ## [0.1.20](https://github.com/DanySK/Template-for-Kotlin-JVM-Projects/compare/0.1.19...0.1.20) (2023-12-21)
 
 
