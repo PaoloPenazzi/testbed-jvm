@@ -30,10 +30,12 @@ jobs:
                 || github.event.pull_request.head.repo.full_name == github.repository
               )
             }}
+          github-token: ${{ secrets.GH_TOKEN }}
           maven-central-username: ${{ secrets.MAVEN_CENTRAL_USERNAME }}
           maven-central-password: ${{ secrets.MAVEN_CENTRAL_PASSWORD }}
           signing-key: ${{ secrets.SIGNING_KEY }}
           signing-password: ${{ secrets.SIGNING_PASSWORD }}
+
   release:
     concurrency:
       # Only one release job at a time. Strictly sequential.
