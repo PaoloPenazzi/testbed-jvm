@@ -1,3 +1,25 @@
+## [2.1.0](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.0.1...2.1.0) (2024-01-16)
+
+
+### Features
+
+* add input file examples and plantuml diagrams ([892af8b](https://github.com/PaoloPenazzi/testbed-jvm/commit/892af8b1fd73e312cc0a0401df9c14dc048bc2b4))
+
+
+### Dependency updates
+
+* **deps:** update dependency com.charleskorn.kaml:kaml to v0.57.0 ([12146fb](https://github.com/PaoloPenazzi/testbed-jvm/commit/12146fb13730c85c6cd9e2ac3dd4b74f18622e27))
+
+
+### Build and continuous integration
+
+* add github-token in build job ([aac31e4](https://github.com/PaoloPenazzi/testbed-jvm/commit/aac31e45e8862a6f4a853384e8e7fd5174dec0d9))
+
+
+### General maintenance
+
+* avoid tracking .jar and .csv files ([0a5b6f2](https://github.com/PaoloPenazzi/testbed-jvm/commit/0a5b6f25af200535a33d28fc5013a7ce826afca8))
+
 ## [2.0.1](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.0.0...2.0.1) (2024-01-16)
 
 
