@@ -1,3 +1,24 @@
+## [2.1.1](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.0...2.1.1) (2024-02-02)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlinx:kotlinx-io-core to v0.3.1 ([8687981](https://github.com/PaoloPenazzi/testbed-jvm/commit/868798184d177f3663f51839dd558a5be56f54f8))
+* **deps:** update dependency org.mockito:mockito-core to v5.10.0 ([2976756](https://github.com/PaoloPenazzi/testbed-jvm/commit/2976756c3be5069916a564f588a89bde78b6318c))
+* **deps:** update node.js to 20.11 ([4b5fae5](https://github.com/PaoloPenazzi/testbed-jvm/commit/4b5fae583aeee0b7fd298b65d307b8c5901f8b97))
+* **deps:** update plugin com.gradle.enterprise to v3.16.2 ([e33676f](https://github.com/PaoloPenazzi/testbed-jvm/commit/e33676faef30fe996a2991491eb5936e3018d984))
+* **deps:** update plugin gitsemver to v3 ([7b18492](https://github.com/PaoloPenazzi/testbed-jvm/commit/7b184923407a4814ed16095a1f1f27fbc38a8d35))
+* **deps:** update plugin kotlin-qa to v0.59.0 ([ab4160e](https://github.com/PaoloPenazzi/testbed-jvm/commit/ab4160e942b3ac14bed73ef55b942733e78e9762))
+* **deps:** update plugin multijvmtesting to v0.5.8 ([9531a52](https://github.com/PaoloPenazzi/testbed-jvm/commit/9531a52822d4927dedc89bbeacb124cef0be656d))
+
+
+### Build and continuous integration
+
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.14 ([d878ed4](https://github.com/PaoloPenazzi/testbed-jvm/commit/d878ed4e161c3fa49cc34c602c261a6ce52587b5))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.15 ([ff9251f](https://github.com/PaoloPenazzi/testbed-jvm/commit/ff9251fe22547b43513d362bd9bf43a8b751844a))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.16 ([a339073](https://github.com/PaoloPenazzi/testbed-jvm/commit/a339073f5b5512f08604f2a80fb8c2ee54de337d))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.17 ([2d06582](https://github.com/PaoloPenazzi/testbed-jvm/commit/2d065821de5f88652045416c1980d4eff6228b8f))
+
 ## [2.1.0](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.0.1...2.1.0) (2024-01-16)
 
 
