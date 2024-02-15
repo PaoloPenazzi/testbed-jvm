@@ -1,3 +1,29 @@
+## [2.1.2](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.1...2.1.2) (2024-02-15)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.8.0 ([f26c4d4](https://github.com/PaoloPenazzi/testbed-jvm/commit/f26c4d41f4864372e61ffc261f81f718214ca5a0))
+* **deps:** update dependency gradle to v8.6 ([92329be](https://github.com/PaoloPenazzi/testbed-jvm/commit/92329be6e1425c144fb85bdc2d80a11306ac2a67))
+* **deps:** update plugin gitsemver to v3.1.1 ([b2289f9](https://github.com/PaoloPenazzi/testbed-jvm/commit/b2289f96e3cf22fdaf003998166a7f37cb883e83))
+* **deps:** update plugin kotlin-qa to v0.59.1 ([d0ab79d](https://github.com/PaoloPenazzi/testbed-jvm/commit/d0ab79db42e696da71b36dcb780e468274905e39))
+* **deps:** update plugin kotlin-qa to v0.60.0 ([77743f7](https://github.com/PaoloPenazzi/testbed-jvm/commit/77743f7fde66a5ffcc4f9e492f4ffd10ac86c090))
+* **deps:** update plugin kotlin-qa to v0.60.1 ([5fe7773](https://github.com/PaoloPenazzi/testbed-jvm/commit/5fe77732763288844e74770230fd3c14ed386f74))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.1 ([2b30380](https://github.com/PaoloPenazzi/testbed-jvm/commit/2b3038075bb07378574faa16426054e44e18f65e))
+* **deps:** update plugin publishoncentral to v5.0.23 ([9baa094](https://github.com/PaoloPenazzi/testbed-jvm/commit/9baa09441ae6d7a98fff268dadebd9306feb06f5))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v4.0.2 ([188d0e7](https://github.com/PaoloPenazzi/testbed-jvm/commit/188d0e7e2d8a6bda3127340d2f9a17142b74db47))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.2.20 ([0e7c943](https://github.com/PaoloPenazzi/testbed-jvm/commit/0e7c943e06083a4d3f153cf7f3d87a10d6529283))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.3.0 ([d755bb1](https://github.com/PaoloPenazzi/testbed-jvm/commit/d755bb1b1cadcc50457d89bda3fbc46ed3f2a469))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.3.1 ([056e274](https://github.com/PaoloPenazzi/testbed-jvm/commit/056e274f3b3bf6676e3af4050dd3030aaea8ee07))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.3.2 ([6c812d2](https://github.com/PaoloPenazzi/testbed-jvm/commit/6c812d2361a00c95ca81ba5e2365c6a2a757676f))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.0 ([c9bf6e8](https://github.com/PaoloPenazzi/testbed-jvm/commit/c9bf6e81c34de66a7293e98ca0b9118d637aac28))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.1 ([ced5afb](https://github.com/PaoloPenazzi/testbed-jvm/commit/ced5afb441ed70dadc8a190262a50c821d20c8ac))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.2 ([f9c68f2](https://github.com/PaoloPenazzi/testbed-jvm/commit/f9c68f255e49b071afc94f1950ad8a05780e6661))
+
 ## [2.1.1](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.0...2.1.1) (2024-02-02)
 
 
