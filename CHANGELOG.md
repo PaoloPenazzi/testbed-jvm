@@ -1,3 +1,10 @@
+## [2.1.3](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.2...2.1.3) (2024-02-16)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlinx:kotlinx-serialization-json to v1.6.3 ([28659aa](https://github.com/PaoloPenazzi/testbed-jvm/commit/28659aafecc511b04d49d3b2d9bf7128178ceedc))
+
 ## [2.1.2](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.1...2.1.2) (2024-02-15)
 
 
