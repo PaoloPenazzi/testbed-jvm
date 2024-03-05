@@ -1,3 +1,27 @@
+## [2.1.4](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.3...2.1.4) (2024-03-05)
+
+
+### Dependency updates
+
+* **deps:** update dependency org.mockito:mockito-core to v5.11.0 ([c237cef](https://github.com/PaoloPenazzi/testbed-jvm/commit/c237cefc2b97f5c9aeffcc688b25bfea431a0218))
+* **deps:** update plugin gitsemver to v3.1.2 ([9795d2b](https://github.com/PaoloPenazzi/testbed-jvm/commit/9795d2bf1f63c1b3c4096202e34293e8c140e910))
+* **deps:** update plugin kotlin-qa to v0.60.2 ([6fd0151](https://github.com/PaoloPenazzi/testbed-jvm/commit/6fd0151b5de78b3c4e6f87fe12cc3889872492e1))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.2 ([12b4be1](https://github.com/PaoloPenazzi/testbed-jvm/commit/12b4be186fbe675de33d2f57d78e9340673f22e1))
+* **deps:** update plugin publishoncentral to v5.0.24 ([2e887ec](https://github.com/PaoloPenazzi/testbed-jvm/commit/2e887ec8f9a7ee5b293f19c0b98ee085faadd2c2))
+
+
+### Documentation
+
+* **deps:** update plugin dokka to v1.9.20 ([406fb56](https://github.com/PaoloPenazzi/testbed-jvm/commit/406fb565a690a4c3f959b9bd66424102f4492841))
+
+
+### Build and continuous integration
+
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.3 ([e8b66a8](https://github.com/PaoloPenazzi/testbed-jvm/commit/e8b66a8e8139f203b3a2ad62d9c2055d27842108))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.4 ([5a44d03](https://github.com/PaoloPenazzi/testbed-jvm/commit/5a44d03083d98b78383b97422fa9c5dab83b9311))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.5 ([4f0e56e](https://github.com/PaoloPenazzi/testbed-jvm/commit/4f0e56e5b62300c11ddd81e6b36781b72cd54fc0))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.6 ([a78dc68](https://github.com/PaoloPenazzi/testbed-jvm/commit/a78dc68dc229cafdbefe7ac31097559c62ae403e))
+
 ## [2.1.3](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.2...2.1.3) (2024-02-16)
 
 
