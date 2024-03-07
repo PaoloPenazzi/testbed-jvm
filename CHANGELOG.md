@@ -1,3 +1,10 @@
+## [2.1.5](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.4...2.1.5) (2024-03-07)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlin.jvm to v1.9.23 ([ed087db](https://github.com/PaoloPenazzi/testbed-jvm/commit/ed087db1075275c4ea0dc062ca540526eadb442e))
+
 ## [2.1.4](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.3...2.1.4) (2024-03-05)
 
 
