@@ -1,3 +1,21 @@
+## [2.1.7](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.6...2.1.7) (2024-03-18)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlinx:kotlinx-io-core to v0.3.2 ([324bccf](https://github.com/PaoloPenazzi/testbed-jvm/commit/324bccfede23c2a68c4d8052a3bb4b87cbf1e07c))
+* **deps:** update kotest to v5.8.1 ([9132e13](https://github.com/PaoloPenazzi/testbed-jvm/commit/9132e131e3d288cb12d3ccf446cbc23d0c318bfc))
+* **deps:** update plugin gitsemver to v3.1.3 ([f484289](https://github.com/PaoloPenazzi/testbed-jvm/commit/f4842897ad362b67fa40cf3f4220b2bbcefbe297))
+* **deps:** update plugin kotlin-qa to v0.60.3 ([83f9ceb](https://github.com/PaoloPenazzi/testbed-jvm/commit/83f9ceb153f3c5172b14de09456e14e0e898349f))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.3 ([7d45657](https://github.com/PaoloPenazzi/testbed-jvm/commit/7d45657a6fd99f9040be262cac3f01218ef5ccc2))
+* **deps:** update plugin publishoncentral to v5.0.25 ([daf1278](https://github.com/PaoloPenazzi/testbed-jvm/commit/daf1278f4b2b459b3fa7a46a316138a374787732))
+
+
+### Build and continuous integration
+
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.7 ([fa9c557](https://github.com/PaoloPenazzi/testbed-jvm/commit/fa9c557264650c3b62b92e63b1a311806af4bac7))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.8 ([a4a0ecd](https://github.com/PaoloPenazzi/testbed-jvm/commit/a4a0ecd0d4e679ee00eb5f3e27af077ca526a39f))
+
 ## [2.1.6](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.5...2.1.6) (2024-03-07)
 
 
