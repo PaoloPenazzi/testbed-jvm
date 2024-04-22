@@ -1,3 +1,37 @@
+## [2.1.8](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.7...2.1.8) (2024-04-22)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlinx:kotlinx-io-core to v0.3.3 ([4e36e7a](https://github.com/PaoloPenazzi/testbed-jvm/commit/4e36e7aadde56e87cd0e75c8545d38debbe22d0d))
+* **deps:** update dependency com.charleskorn.kaml:kaml to v0.58.0 ([d22a180](https://github.com/PaoloPenazzi/testbed-jvm/commit/d22a18079ad3569f63a07b29bce2f3e4364b8a04))
+* **deps:** update dependency gradle to v8.7 ([225f29b](https://github.com/PaoloPenazzi/testbed-jvm/commit/225f29bba894c6de1fdf5a8440722f442604ef20))
+* **deps:** update node.js to 20.12 ([6e1f270](https://github.com/PaoloPenazzi/testbed-jvm/commit/6e1f2706c6d542121b1b1d0794cac55aa1ac472c))
+* **deps:** update plugin com.gradle.enterprise to v3.17 ([69abdfb](https://github.com/PaoloPenazzi/testbed-jvm/commit/69abdfb12c749e9c3499f1eadb5b5c1c9fc6137b))
+* **deps:** update plugin com.gradle.enterprise to v3.17.1 ([8fd7191](https://github.com/PaoloPenazzi/testbed-jvm/commit/8fd71917aa018cf4d99c7fe8d6edb908a88e7cbf))
+* **deps:** update plugin com.gradle.enterprise to v3.17.2 ([09be68b](https://github.com/PaoloPenazzi/testbed-jvm/commit/09be68b1beec1ec772045204d8b7d3617acc3ed8))
+* **deps:** update plugin gitsemver to v3.1.4 ([4b363a2](https://github.com/PaoloPenazzi/testbed-jvm/commit/4b363a2a74c0c675012f976e1ae12bb020d67437))
+* **deps:** update plugin kotlin-qa to v0.60.4 ([50d8476](https://github.com/PaoloPenazzi/testbed-jvm/commit/50d8476aac4a24bb59314edc1d47e44d56ef672f))
+* **deps:** update plugin kotlin-qa to v0.61.0 ([5384521](https://github.com/PaoloPenazzi/testbed-jvm/commit/538452176812b7f0be6a96519a2b4d0e678b2363))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.4 ([7e2b238](https://github.com/PaoloPenazzi/testbed-jvm/commit/7e2b2389819e70d8a600e139a8dffb10a074a4d0))
+* **deps:** update plugin publishoncentral to v5.0.26 ([9ff844a](https://github.com/PaoloPenazzi/testbed-jvm/commit/9ff844ac123a5e477a3ef51ceb3dff99e148a4af))
+* **deps:** update plugin publishoncentral to v5.1.0 ([fd349d4](https://github.com/PaoloPenazzi/testbed-jvm/commit/fd349d425fcc7309db0a339e0800bf89dd3b688c))
+* **deps:** update plugin tasktree to v3 ([4fb4935](https://github.com/PaoloPenazzi/testbed-jvm/commit/4fb4935572968e88eddcdf7fcb876e15c7ad66ee))
+
+
+### Build and continuous integration
+
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.10 ([acb9106](https://github.com/PaoloPenazzi/testbed-jvm/commit/acb9106262fb1050af3f1240181815d6e473053f))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.11 ([f12bbc5](https://github.com/PaoloPenazzi/testbed-jvm/commit/f12bbc55f8c905e110ecf7cc17cb6f5cdd54de2d))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.12 ([d1a80dc](https://github.com/PaoloPenazzi/testbed-jvm/commit/d1a80dcf96f017a321c77ff7cc7de38c887b22f5))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.13 ([ed283bf](https://github.com/PaoloPenazzi/testbed-jvm/commit/ed283bf8475a6b63dee86b298b4327cd88426bd0))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.14 ([897a47b](https://github.com/PaoloPenazzi/testbed-jvm/commit/897a47b15cead153d670e6187ef675f821266b56))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.15 ([6d05e1c](https://github.com/PaoloPenazzi/testbed-jvm/commit/6d05e1cad9173fb262cab40d6d21f7888b7c9f0a))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.16 ([105045a](https://github.com/PaoloPenazzi/testbed-jvm/commit/105045aba8c084594934e35aadb64c8b6f49fd63))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.9 ([038cce9](https://github.com/PaoloPenazzi/testbed-jvm/commit/038cce906d3f5a2c136f0299985b4fb2279d873c))
+* **deps:** update dependency macos github actions runner to v13 ([b59bed2](https://github.com/PaoloPenazzi/testbed-jvm/commit/b59bed2dc02a7c3702e64f34029ce928f654cb98))
+* **deps:** update dependency macos github actions runner to v14 ([da33d1a](https://github.com/PaoloPenazzi/testbed-jvm/commit/da33d1a2b08b15e54d939041dad8f4d762ef96b2))
+
 ## [2.1.7](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.6...2.1.7) (2024-03-18)
 
 
