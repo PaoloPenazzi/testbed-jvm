@@ -1,3 +1,21 @@
+## [2.1.9](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.8...2.1.9) (2024-05-07)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlin.jvm to v1.9.24 ([2ed509d](https://github.com/PaoloPenazzi/testbed-jvm/commit/2ed509d18e9422321e58541942b761aa233d2f3a))
+* **deps:** update dependency com.charleskorn.kaml:kaml to v0.59.0 ([b5564ff](https://github.com/PaoloPenazzi/testbed-jvm/commit/b5564ff11467fe79d8ccabad9eb34d1ba1249227))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.1.3 ([0ff07de](https://github.com/PaoloPenazzi/testbed-jvm/commit/0ff07de9d6af1b66309bf64968a4ad1da1a476e2))
+* **deps:** update actions/checkout action to v4.1.4 ([12794d2](https://github.com/PaoloPenazzi/testbed-jvm/commit/12794d2417bb7681b8bc2647eb536970be0219da))
+* **deps:** update danysk/action-checkout action to v0.2.15 ([4005c01](https://github.com/PaoloPenazzi/testbed-jvm/commit/4005c015519aa9960076744419f76b36f42bb2e5))
+* **deps:** update danysk/action-checkout action to v0.2.16 ([8b70203](https://github.com/PaoloPenazzi/testbed-jvm/commit/8b7020369320645bc080bf1017b00539582eca51))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.17 ([ca81b97](https://github.com/PaoloPenazzi/testbed-jvm/commit/ca81b975814f27da1dfe488f26d535cc60095a06))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.18 ([050dd1a](https://github.com/PaoloPenazzi/testbed-jvm/commit/050dd1a00596d609ec0e35cbb26eddf167c71de5))
+
 ## [2.1.8](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.7...2.1.8) (2024-04-22)
 
 
