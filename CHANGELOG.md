@@ -1,3 +1,18 @@
+## [2.1.12](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.11...2.1.12) (2024-05-10)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.8.1 ([f0bcc7f](https://github.com/PaoloPenazzi/testbed-jvm/commit/f0bcc7ff588d3134e8341c44c32734951475daf9))
+* **deps:** update dependency io.kotest:kotest-assertions-core-jvm to v5.9.0 ([8c851e3](https://github.com/PaoloPenazzi/testbed-jvm/commit/8c851e3508135695585f765dffee31a3309064b0))
+* **deps:** update node.js to 20.13 ([8fc1b64](https://github.com/PaoloPenazzi/testbed-jvm/commit/8fc1b64c5b8cf4d4235bc32271e358cdf9b7889a))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.1.5 ([748f3e9](https://github.com/PaoloPenazzi/testbed-jvm/commit/748f3e9954846546aaaec4014df8aabfc435c37d))
+* **deps:** update danysk/action-checkout action to v0.2.17 ([777b277](https://github.com/PaoloPenazzi/testbed-jvm/commit/777b2777379bd6ceb05ee6500be26901df2ed7fa))
+
 ## [2.1.11](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.10...2.1.11) (2024-05-08)
 
 
