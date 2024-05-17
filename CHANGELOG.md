@@ -1,3 +1,19 @@
+## [2.1.13](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.12...2.1.13) (2024-05-17)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlinx:kotlinx-io-core to v0.3.5 ([9e580f1](https://github.com/PaoloPenazzi/testbed-jvm/commit/9e580f1890853b4b66f005509bf6960e1dac5960))
+* **deps:** update dependency org.mockito:mockito-core to v5.12.0 ([837c590](https://github.com/PaoloPenazzi/testbed-jvm/commit/837c590959f2c74e46ad87232f7a388e21e5a43f))
+* **deps:** update plugin com.gradle.enterprise to v3.17.3 ([acab655](https://github.com/PaoloPenazzi/testbed-jvm/commit/acab655a5c4e4264e6847c530b689cafe1915f31))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.1.6 ([33973f6](https://github.com/PaoloPenazzi/testbed-jvm/commit/33973f6f7064b28faee80659b4898cea8749d06f))
+* **deps:** update danysk/action-checkout action to v0.2.18 ([08c27dd](https://github.com/PaoloPenazzi/testbed-jvm/commit/08c27dd664dc7ff0e4aa7b3a153784e6e9aae1b2))
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.19 ([c6b2082](https://github.com/PaoloPenazzi/testbed-jvm/commit/c6b2082d2e613c85f9606ee6a757dd47ad75cb0a))
+
 ## [2.1.12](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.11...2.1.12) (2024-05-10)
 
 
