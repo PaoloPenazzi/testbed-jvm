@@ -1,3 +1,18 @@
+## [2.1.14](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.13...2.1.14) (2024-05-22)
+
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlin.jvm to v2 ([fc17432](https://github.com/PaoloPenazzi/testbed-jvm/commit/fc1743278715741eabb8e1eb0f80fedb2d11f624))
+* **deps:** update plugin com.gradle.enterprise to v3.17.4 ([300b99c](https://github.com/PaoloPenazzi/testbed-jvm/commit/300b99cf9da585a77402452d12e06018bc04027f))
+* **deps:** update plugin gitsemver to v3.1.6 ([b9bf912](https://github.com/PaoloPenazzi/testbed-jvm/commit/b9bf9124695e360841a4c8c9247e4614c98906e0))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.6 ([562e956](https://github.com/PaoloPenazzi/testbed-jvm/commit/562e95661dc40454f68ad2a394bfd905668c3c59))
+
+
+### Build and continuous integration
+
+* **deps:** update danysk/build-check-deploy-gradle-action action to v2.4.20 ([acc8a63](https://github.com/PaoloPenazzi/testbed-jvm/commit/acc8a636ac5d0f587cccdeead024ad97efc3f277))
+
 ## [2.1.13](https://github.com/PaoloPenazzi/testbed-jvm/compare/2.1.12...2.1.13) (2024-05-17)
 
 
