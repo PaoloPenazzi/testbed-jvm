@@ -8,7 +8,7 @@ plugins {
     alias(libs.plugins.publishOnCentral)
     alias(libs.plugins.multiJvmTesting)
     alias(libs.plugins.taskTree)
-    kotlin("plugin.serialization") version "1.9.24"
+    kotlin("plugin.serialization") version "2.0.0"
 }
 application {
     mainClass = "Main"
